@@ -58,7 +58,7 @@ I transform these discoveries into practical analytical structures, ultimately s
 ### 2026
 | Project | Domain | Description |
 |---------|--------|-------------|
-| **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Research results** Patent registration, Software Copyright Registration, Paper Submission |
+| **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. |
 
 ### References papers
 - **GRAPH-ENHANCED DEEP REINFORCEMENT LEARNING FOR MULTI-OBJECTIVE UNRELATED PARALLEL MACHINE SCHEDULING** | Bulent Soykan, Sean Mondesire, Ghaith Rabadi, Grace Bochenek
@@ -125,6 +125,16 @@ I transform these discoveries into practical analytical structures, ultimately s
 - **SQLD** (SQL Developer)
 - **ADsP** (Advanced Data analytics semi-Professional)
 - **Big Data Analysis Engineer** (Written Exam Passed)
+
+---
+
+## 🗞️ Reserach result
+
+### patent
+- Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder
+
+### Software Copyright Registration
+- Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder
 
 ---
 
