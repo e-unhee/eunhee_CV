@@ -58,7 +58,7 @@ I transform these discoveries into practical analytical structures, ultimately s
 ### 2026
 | Project | Domain | Description |
 |---------|--------|-------------|
-| <span style="color:#0077BE">**Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Expected Outcomes:** Software copyright registration, manuscript submission |
+| **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Expected Outcomes:** Software copyright registration, manuscript submission |
 
 ---
 
@@ -123,13 +123,13 @@ I transform these discoveries into practical analytical structures, ultimately s
 
 ---
 
-## 📜 <span style="color:#0077BE">Research results
+## 🗞️ <span style="color:#0077BE">Research results
 
-### <span style="color:#0077BE">patent
-- <span style="color:#0077BE">**Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder**
+### patent
+- **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder**
 
-### <span style="color:#0077BE">Software Copyright Registration
-- <span style="color:#0077BE">**Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder**
+### Software Copyright Registration
+- **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder**
 
 ---
 
