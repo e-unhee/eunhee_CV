@@ -1,8 +1,7 @@
 
 # Eunhee Lee - Curriculum Vitae
 
-![Profile](이은희_증명사진2.jpeg)  
-*31st March 2026*
+![Profile](이은희_증명사진2.jpeg)
 
 ---
 
