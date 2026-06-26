@@ -58,14 +58,11 @@ I transform these discoveries into practical analytical structures, ultimately s
 ### 2026
 | Project | Domain | Description |
 |---------|--------|-------------|
-| **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Expected Outcomes:** Software copyright registration, manuscript submission <br/>**Research results** Patent registration, Software Copyright Registration, Paper Submission |
+| **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Research results** Patent registration, Software Copyright Registration, Paper Submission |
 
 ### References papers
-
 - **GRAPH-ENHANCED DEEP REINFORCEMENT LEARNING FOR MULTI-OBJECTIVE UNRELATED PARALLEL MACHINE SCHEDULING** | Bulent Soykan, Sean Mondesire, Ghaith Rabadi, Grace Bochenek
-
 - **Integration of Simulation and Scheduling for the Optimization of a Large Scale Semiconductor FAB** | 김동욱, 박상철, 오지웅, 이성태, 고기훈, 김병희
-
 - **Flexible Job-Shop Scheduling via Graph Neural Network and Deep Reinforcement Learning** | Wen Song, Xinyang Chen, Qiqiang Li, Zhiguang Cao
 
 ---
