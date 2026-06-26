@@ -1,7 +1,7 @@
 
 # Eunhee Lee - Curriculum Vitae
 
-![Profile](profile.jpg)  
+![Profile](이은희_증명사진2.jpeg)  
 *31st March 2026*
 
 ---
@@ -58,7 +58,7 @@ I transform these discoveries into practical analytical structures, ultimately s
 ### 2026
 | Project | Domain | Description |
 |---------|--------|-------------|
-| **Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Expected Outcomes:** Software copyright registration, manuscript submission |
+| <span style="color:#0077BE">**Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder** | Research & Data Science | Developing an integrated control framework that synchronizes Material Control Systems (MCS) and Real-Time Dispatching (RTD) to streamline smart factory logistics. Implementing a No-code Dispatching Rule Builder to empower non-expert field operators to easily customize and deploy complex operational logic. <br/>**Expected Outcomes:** Software copyright registration, manuscript submission |
 
 ---
 
@@ -119,6 +119,17 @@ I transform these discoveries into practical analytical structures, ultimately s
 ### Data
 - **SQLD** (SQL Developer)
 - **ADsP** (Advanced Data analytics semi-Professional)
+- **Big Data Analysis Engineer** (Written Exam Passed)
+
+---
+
+## 📜 <span style="color:#0077BE">Research results
+
+### <span style="color:#0077BE">patent
+- <span style="color:#0077BE">**Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder**
+
+### <span style="color:#0077BE">Software Copyright Registration
+- <span style="color:#0077BE">**Smart Factory MCS-RTD Integrated Control Platform with No-code Rule Builder**
 
 ---
 
