@@ -1,6 +1,7 @@
 
 # Eunhee Lee - Curriculum Vitae
 
+<img src="profile.jpeg" width="200">
 ![Profile](./profile.jpeg)
 
 ---
