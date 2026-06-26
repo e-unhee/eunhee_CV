@@ -1,7 +1,7 @@
 
 # Eunhee Lee - Curriculum Vitae
 
-![Profile](./이은희_증명사진2.jpeg)
+![Profile](./profile.jpeg)
 
 ---
 
